@@ -3,7 +3,7 @@
  
 
 <strong> Legenda : </strong>
-|Descrição | Logotipo   | Tot |
+|Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
 | Projeto em desenvolvimento    |  🛑  | 1 |
 | Meus projetos Favoritos | ⭐  | 0 |
