@@ -22,8 +22,12 @@
 
 
 ## 📚 Tópicos de estudos (link wiki)  
-### Anotaçôes
-* []() 
+### Repositório de estudo para se tornar web design 
+
+* [Javascript]
+* [Html]
+* [css]
+* [MySql - Workbench]
 
 
 ## 💻 (sites, plug, software) : geral (Github Pages) 
