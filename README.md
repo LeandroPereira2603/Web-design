@@ -11,11 +11,11 @@
 
 ## 💻 Prática (Github Pages) 
 
-### Minhas criações de design : Sites completos    
+### Minhas criações de design (LLP) : Sites completos    
 * [💻 site : Natureza & bem estar 🛑 ](https://leandropereira2603.github.io/site-natureza-bem-estar/) ☕ [ Repositório : Natureza & bem estar ](https://github.com/LeandroPereira2603/site-natureza-bem-estar)
 * [💻 site: Portifólio ]()
 
-### Inspirados em outros sites : Sites completos
+### praticando design existentes :
 
 *[]()
 
