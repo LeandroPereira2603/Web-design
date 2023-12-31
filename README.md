@@ -11,7 +11,7 @@
 
 ## 💻 Tópicos (Github Pages) 
 ### Prática de programação  : 
-* [💻 site : Natureza & bem estar 🛑 ] ☕ [ Repositório : Natureza & bem estar ](https://github.com/LeandroPereira2603/site-natureza---bem-star)
+* [💻 site : Natureza & bem estar 🛑 ] ☕ [ Repositório : Natureza & bem estar ](https://github.com/LeandroPereira2603/site-natureza-bem-estar)
 
 
 ## 📚 Tópicos de estudos (link wiki)  
