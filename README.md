@@ -1,22 +1,17 @@
 # Web-design
  Frond-end , Back-end , Fullstack ( junior )
-# Modelagem de site 
-
- 
-<p> Aqui terá todos os meus reposiórios criados de sites. </p>
  
 
-<!---
-<strong> Os significados dos logotipos :</strong>
+<strong> Legenda : </strong>
 |Descrição | Logotipo   |
 |:--: |:--:|
 | Projeto em desenvolvimento    |  🛑  |
-| Meus projetos Favoritos | :heart: |
-| Código Fonte - local do repositório | ☕|  -->
+| Meus projetos Favoritos | ⭐  |
+| Código Fonte - local do repositório | ☕| 
 
 ## 💻 Tópicos (Github Pages) 
 ### Prática de programação  : 
-* [💻 site :  ] ☕ [ ]
+* [💻 site : Natureza & bem estar 🛑 ] ☕ [ Repositório : Natureza & bem estar ](https://github.com/LeandroPereira2603/site-natureza---bem-star)
 
 
 ## 📚 Tópicos de estudos (link wiki)  
