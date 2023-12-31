@@ -3,7 +3,7 @@
  
 
 <strong> Legenda : </strong>
-|Descrição | Logotipo   | Qtd |
+|Descrição | Logotipo   | Tot |
 |:--: |:--:|:--:|
 | Projeto em desenvolvimento    |  🛑  | 1 |
 | Meus projetos Favoritos | ⭐  | 0 |
