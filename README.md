@@ -26,7 +26,7 @@
 * []() 
 
 
-## 💻 (sites.plug,software) : geral (Github Pages) 
+## 💻 (sites, plug, software) : geral (Github Pages) 
 
 ## Design
 * Krita (Edição de imagem , animação , ilustração )
