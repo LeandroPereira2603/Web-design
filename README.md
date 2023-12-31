@@ -5,7 +5,7 @@
 <strong> Legenda : </strong>
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
-| Projeto em desenvolvimento    |  🛑  | 1 |
+| Projetos em desenvolvimento    |  🛑  | 1 |
 | Meus projetos Favoritos | ⭐  | 0 |
 | Código Fonte - local do repositório | ☕|  0 |
 
