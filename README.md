@@ -28,6 +28,9 @@
 * [Html]
 * [css]
 * [MySql - Workbench]
+* [Krita]
+* [Gimp ]
+* [Figma]
 
 
 ## 💻 (sites, plug, software) : geral (Github Pages) 
