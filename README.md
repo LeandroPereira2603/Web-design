@@ -7,7 +7,7 @@
 |:--: |:--:|:--:|
 | Projetos em desenvolvimento    |  🛑  | 1 |
 | Meus projetos Favoritos | ⭐  | 0 |
-| Código Fonte - local do repositório | ☕|  0 |
+| Código Fonte - local do repositório | ☕|  1 |
 
 ## 💻 Prática (Github Pages) 
 
