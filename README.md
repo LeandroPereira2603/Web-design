@@ -3,11 +3,11 @@
  
 
 <strong> Legenda : </strong>
-|Descrição | Logotipo   |
-|:--: |:--:|
-| Projeto em desenvolvimento    |  🛑  |
-| Meus projetos Favoritos | ⭐  |
-| Código Fonte - local do repositório | ☕| 
+|Descrição | Logotipo   | Qtd |
+|:--: |:--:|:--:|
+| Projeto em desenvolvimento    |  🛑  | 1 |
+| Meus projetos Favoritos | ⭐  | 0 |
+| Código Fonte - local do repositório | ☕|  0 |
 
 ## 💻 Prática (Github Pages) 
 
