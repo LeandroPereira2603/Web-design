@@ -24,3 +24,18 @@
 ## 📚 Tópicos de estudos (link wiki)  
 ### Anotaçôes
 * []() 
+
+
+## 💻 (sites.plug,software) : geral (Github Pages) 
+
+## Design
+* Krita (Edição de imagem , animação , ilustração )
+* Gimp (Edição de imagem)
+* Potoshop (Edição de imagem)
+* IA-ADOBE(Ilustrator)
+* Figma ( criação de prototipagem para site )
+* Favicon.cc (criarção de favicon logotipo)
+  
+
+
+
