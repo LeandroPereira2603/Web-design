@@ -6,10 +6,10 @@
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:| 
 | Abandonados | 🔴 | 0 | 
-| Em desenvolvimento    |  🟡  | 1 |
+| Em desenvolvimento    |  🟡  | 2 |
 | Concluído   |  🟢  | 0 |
 | Favoritos | ⭐  | 0 |
-| Código Fonte - local do repositório | ☕|  1 |
+| Código Fonte - local do repositório | ☕|  2 |
 
 ## 💻 Prática (Github Pages) 
 
@@ -18,7 +18,7 @@
 * [💻 site: Portifólio ]
 
 ### Pratica de Designs : Sites completos 
-
+*🟡[💻 site: 3D Book ] ☕ [Repositório : Book 3D ](https://github.com/LeandroPereira2603/site-3d-book)
 *[]()
 
 
