@@ -5,10 +5,10 @@
 <strong> Legenda : </strong>
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:| 
-| Projetos abandonados | 🔴 | 0 | 
-| Projetos em desenvolvimento    |  🟡  | 1 |
-| Projetos concluídos    |  🟢  | 0 |
-| Meus projetos Favoritos | ⭐  | 0 |
+| Abandonados | 🔴 | 0 | 
+| Em desenvolvimento    |  🟡  | 1 |
+| Concluído   |  🟢  | 0 |
+| Favoritos | ⭐  | 0 |
 | Código Fonte - local do repositório | ☕|  1 |
 
 ## 💻 Prática (Github Pages) 
