@@ -7,7 +7,7 @@
 |:--: |:--:|:--:| 
 | Projetos abandonados | 🔴 | 0 | 
 | Projetos em desenvolvimento    |  🟡  | 1 |
-| Projetos concluídos    |  💻  | 0 |
+| Projetos concluídos    |  🟢  | 0 |
 | Meus projetos Favoritos | ⭐  | 0 |
 | Código Fonte - local do repositório | ☕|  1 |
 
