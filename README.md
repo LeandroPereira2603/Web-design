@@ -4,8 +4,9 @@
 
 <strong> Legenda : </strong>
 |Descrição | Logotipo   | Total |
-|:--: |:--:|:--:|
-| Projetos em desenvolvimento    |  🛑  | 1 |
+|:--: |:--:|:--:| 
+| Projetos abandonados | 🔴 | 0 | 
+| Projetos em desenvolvimento    |  🟡  | 1 |
 | Projetos concluídos    |  💻  | 0 |
 | Meus projetos Favoritos | ⭐  | 0 |
 | Código Fonte - local do repositório | ☕|  1 |
@@ -13,7 +14,7 @@
 ## 💻 Prática (Github Pages) 
 
 ### Minhas criações de design (LLP) : Sites completos    
-* [💻 site : Natureza & bem estar 🛑 ](https://leandropereira2603.github.io/site-natureza-bem-estar/) ☕ [ Repositório : Natureza & bem estar ](https://github.com/LeandroPereira2603/site-natureza-bem-estar)
+* [💻 site : Natureza & bem estar 🟡 ](https://leandropereira2603.github.io/site-natureza-bem-estar/) ☕ [ Repositório : Natureza & bem estar ](https://github.com/LeandroPereira2603/site-natureza-bem-estar)
 * [💻 site: Portifólio ]
 
 ### praticando design existentes :
