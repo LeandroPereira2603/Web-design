@@ -24,7 +24,7 @@
 
 
 ## 📚 Tópicos de estudos (link wiki)  
-### Repositório de estudo para me tornar web design  : 
+### Repositório de estudo ( web design )  : 
 
 * [Javascript]
 * [Html]
