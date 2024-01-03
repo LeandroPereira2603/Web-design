@@ -7,7 +7,7 @@
 |:--: |:--:|:--:| 
 | Abandonados | 🔴 | 0 | 
 | Em desenvolvimento    |  🟡  | 2 |
-| Concluído   |  🟢  | 0 |
+| Concluído   |  💻  | 0 |
 | Favoritos | ⭐  | 0 |
 | Código Fonte - local do repositório | ☕|  2 |
 
