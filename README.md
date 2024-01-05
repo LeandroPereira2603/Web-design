@@ -38,13 +38,13 @@
 
 # 💻 Prática
 
-## Prática (Github Pages) 
+### Prática (Github Pages) 
 
-### Criações de Design (LLP) : Sites completos    
+#### Criações de Design (LLP) : Sites completos    
 * 🟡 [ site : Natureza & bem estar  ](https://leandropereira2603.github.io/site-natureza-bem-estar/) ☕ [ Repositório : Natureza & bem estar ](https://github.com/LeandroPereira2603/site-natureza-bem-estar)
 * [💻 site: Portifólio ]
 
-### Pratica de Designs : Sites completos 
+#### Pratica de Designs : Sites completos 
 *🟡[ site: 3D Book ](https://leandropereira2603.github.io/site-3d-book/) ☕ [Repositório : Book 3D ](https://github.com/LeandroPereira2603/site-3d-book)
 *[]()
 
