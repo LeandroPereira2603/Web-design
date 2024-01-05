@@ -23,9 +23,10 @@
 * [Figma]
 
 
-## 💻 (sites, plug, software) : geral (Github Pages) 
+## Sites, plugs , softwares ( web designer ) 
 
-## Design
+### Design :
+
 * Krita (Edição de imagem , animação , ilustração )
 * Gimp (Edição de imagem)
 * Potoshop (Edição de imagem)
@@ -34,7 +35,9 @@
 * Favicon.cc (criarção de favicon logotipo)
   
 
-# 💻 Prática (Github Pages) 
+# 💻 Prática
+
+## Prática (Github Pages) 
 
 ### Criações de Design (LLP) : Sites completos    
 * 🟡 [ site : Natureza & bem estar  ](https://leandropereira2603.github.io/site-natureza-bem-estar/) ☕ [ Repositório : Natureza & bem estar ](https://github.com/LeandroPereira2603/site-natureza-bem-estar)
