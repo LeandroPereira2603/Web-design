@@ -27,7 +27,7 @@
 * [Figma]
 
 
-### Site , plug , software 
+### Site , plug , software :
 
 #### Design :
 
