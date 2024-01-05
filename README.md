@@ -13,7 +13,7 @@
 
 # 📚 Tópicos de estudos
  
-## Repositórios de estudo ( web design )  : 
+### Repositórios : 
 
 * [Javascript]
 * [Html]
@@ -24,9 +24,9 @@
 * [Figma]
 
 
-## Sites, plugs , softwares ( web designer ) 
+### Site , plug , software 
 
-### Design :
+#### Design :
 
 * Krita (Edição de imagem , animação , ilustração )
 * Gimp (Edição de imagem)
