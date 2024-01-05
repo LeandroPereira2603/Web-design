@@ -11,8 +11,9 @@
 | Favoritos | ⭐  | 0 |
 | Código Fonte - local do repositório | ☕|  2 |
 
-# 📚 Tópicos de estudos (link wiki)  
-### Repositório de estudo ( web design )  : 
+# 📚 Tópicos de estudos
+ 
+## Repositórios de estudo ( web design )  : 
 
 * [Javascript]
 * [Html]
