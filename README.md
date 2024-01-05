@@ -12,6 +12,9 @@
 | Código Fonte - local do repositório | ☕|  2 |
 
 # 📚 Tópicos de estudos
+
+### Sobre :
+* [ Boas práticas de programação ](https://github.com/LeandroPereira2603/Web-design/blob/main/Explica%C3%A7%C3%B4es/Boas%20pr%C3%A1tica%20de%20programa%C3%A7%C3%A3o.md)
  
 ### Repositórios : 
 
