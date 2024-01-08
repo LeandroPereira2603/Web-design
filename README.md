@@ -45,7 +45,6 @@
 
 #### Criações de Design (LLP) : Sites completos    
 * 🟡 [ site : Natureza & bem estar  ](https://leandropereira2603.github.io/site-natureza-bem-estar/) ☕ [ Repositório : Natureza & bem estar ](https://github.com/LeandroPereira2603/site-natureza-bem-estar)
-* [💻 site: Portifólio]
 * 🟡 [ site : Doações](file:///C:/Users/Leandro%20Luiz%20Pereira/Desktop/site-doacoes/index.html#footer)
 
 #### Pratica de Designs : Sites completos 
