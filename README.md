@@ -1,7 +1,7 @@
 # Web-design
  Frond-end , Back-end , Fullstack ( junior )
  
-**Nivel:** JR
+
 
 <strong> Legenda : </strong>
 |Descrição | Logotipo   | 
