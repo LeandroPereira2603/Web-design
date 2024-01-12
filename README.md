@@ -47,7 +47,7 @@
 #### Criações de Design (LLP) : Sites completos    
 * 🟡 [ site : Natureza & bem estar  ](https://leandropereira2603.github.io/site-natureza-bem-estar/) ☕ [ Repositório : Natureza & bem estar ](https://github.com/LeandroPereira2603/site-natureza-bem-estar)
 * 🟡 [ site : Doações ](https://leandropereira2603.github.io/site-doacao-de-sangue-e-cabelo/)
-* [site : Tudo sobre esporte - projeto integrado 7° senestre da faculdade ](https://leandropereira2603.github.io/site-tudo-sobre-esporte/)☕ [ Tudo sobre esporte ](https://github.com/LeandroPereira2603/site-tudo-sobre-esporte)
+* [site : Tudo sobre esporte - projeto integrado 7° semestre da faculdade ](https://leandropereira2603.github.io/site-tudo-sobre-esporte/)☕ [ Tudo sobre esporte ](https://github.com/LeandroPereira2603/site-tudo-sobre-esporte)
 
 #### Pratica de Designs : Sites completos 
 * 🟡 [ site: 3D Book ](https://leandropereira2603.github.io/site-3d-book/) ☕ [Repositório : Book 3D ](https://github.com/LeandroPereira2603/site-3d-book)
