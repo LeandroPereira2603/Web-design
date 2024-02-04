@@ -6,7 +6,6 @@
 <strong> Legenda : </strong>
 |Descrição | Logotipo   | 
 |:--: |:--:|
-| Abandonados | 🔴 | 
 | Em desenvolvimento    |  🟡  | 
 | Concluído   |  💻  | 
 | Favoritos | ⭐  | 
